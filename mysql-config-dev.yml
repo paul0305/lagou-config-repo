@@ -1,0 +1,7 @@
+lagou:
+  message: hello,93024
+mysql:
+  uri: http://localhost:3306/springdb
+  
+  
+  
