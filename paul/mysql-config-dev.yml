@@ -1,7 +1,7 @@
 lagou:
-  message: mydream will come true
+  message: aaaaaaa
 mysql:
-  uri: http://localhost:3306/springdb
+  uri: http://localhost:3306/orderdb
   
   
   
